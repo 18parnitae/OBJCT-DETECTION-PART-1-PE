@@ -1,0 +1,58 @@
+.heading
+{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#myBedRoom
+{
+    border-color: rgb(190, 143, 22);
+    border-radius: 25px;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+#myTVandAC
+{
+    border-color: rgb(190, 143, 22);
+    border-radius: 25px;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+#myBottles
+{
+    border-color: rgb(190, 143, 22);
+    border-radius: 25px;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+#myDesk
+{
+    border-color: rgb(190, 143, 22);
+    border-radius: 25px;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+
+#myFruitBasket
+{
+    border-color: rgb(190, 143, 22);
+    border-radius: 25px;
+    font-size: large;
+    background-color: blanchedalmond;
+}
